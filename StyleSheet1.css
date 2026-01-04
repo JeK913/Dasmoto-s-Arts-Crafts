@@ -1,0 +1,48 @@
+
+.Paint h2 {
+    font-weight: bold;
+    color: white;
+    background-color: aqua;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+.Frames h2 {
+    font-weight: bold;
+    color: white;
+    background-color: indianred;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+}
+
+.Brushes h2{
+    position: relative;
+    top: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: limegreen;
+    font-size:30px;
+}
+
+h1 {
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+    position: relative;
+    top: 40px;
+    color: yellow;
+    font-size: 100px;
+    z-index: 1;
+    height: 100%;
+    font-family: Helvetica;
+    text-align: center;
+}
+em{
+    font-weight: bold;
+    color: blue;
+}
+
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+}
